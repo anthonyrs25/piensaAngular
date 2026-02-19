@@ -1,0 +1,7 @@
+{
+  "name": "piensaAngular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
