@@ -1,0 +1,16 @@
+.page{
+    --background: white;
+}
+
+.white{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.negro{
+    --background: black;
+    --color: white;
+    width: 200px;
+}
